@@ -1,0 +1,23 @@
+git config --global user.name
+
+git config --global user.email
+
+git config --global user.name sami
+
+git config --global user.email sami88787@gmail.com
+
+pwd
+
+mkdir sami-12
+
+cd sami-12
+
+touch index.html
+
+ls
+
+git init
+
+code .
+
+git status (modified, staged, commit)
