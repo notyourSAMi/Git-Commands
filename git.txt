@@ -21,3 +21,9 @@ git init
 code .
 
 git status (modified, staged, commit)
+
+git add index.html
+
+git add .
+
+git status
