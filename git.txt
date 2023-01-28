@@ -28,4 +28,21 @@ git add .
 
 git status
 
-git commit index.html -m hello
+git commit index.html -m "hello"
+
+git checkout index.html
+
+git log --oneline
+
+git show filee_id:index.html
+
+git checkout file_id index.html
+
+git branch -M main
+
+git remote add origin URL
+
+git push -u origin main
+
+
+
