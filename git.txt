@@ -46,3 +46,9 @@ git push -u origin main
 
 git pull index main
 
+git branch
+
+git branch (name of your branch)
+
+git checkout (name of your branch)
+
