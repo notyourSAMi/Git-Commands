@@ -44,5 +44,5 @@ git remote add origin URL
 
 git push -u origin main
 
-
+git pull index main
 
